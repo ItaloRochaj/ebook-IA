@@ -1,7 +1,7 @@
 ## 👤 Autor
 
 <div align="left">
-  <img src="https://via.placeholder.com/80" alt="Italo Rocha" style="border-radius: 50%; margin-right: 10px;" width="80"/>
+  <img src="https://github.com/ItaloRochaj/ebook-IA/blob/main/IMG_0774.JPG" alt="Italo Rocha" style="border-radius: 50%; margin-right: 10px;" width="80"/>
 </div>
 
 **Felipe Aguiar**
