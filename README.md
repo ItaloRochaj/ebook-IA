@@ -56,7 +56,7 @@ O eBook está dividido em 10 capítulos didáticos e diretos ao ponto:
 
 ## 📥 Como baixar
 
-Você pode baixar o eBook em formato PDF diretamente [clicando aqui](#) *(adicione o link de download quando disponível)*.
+Você pode baixar o eBook em formato PDF diretamente [https://1drv.ms/b/c/6f51887f626f0d90/EdHlnvrt_QFForZoIakP-esB-yP0X4cm-3jS5wxRVVncHA?e=dZtYAd](#) *(adicione o link de download quando disponível)*.
 
 ---
 
