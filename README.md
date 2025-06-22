@@ -54,6 +54,12 @@ O eBook está dividido em 10 capítulos didáticos e diretos ao ponto:
 
 ---
 
+## 📥 Como baixar
+
+Você pode baixar o eBook em formato PDF diretamente [clicando aqui](#) *(adicione o link de download quando disponível)*.
+
+---
+
 ## 👤 Autor
 
 <div style="background-color: #1e1e1e; border: 1px solid #444; border-radius: 12px; padding: 12px; display: inline-block;">
@@ -75,13 +81,3 @@ O eBook está dividido em 10 capítulos didáticos e diretos ao ponto:
 </div>
 
 ---
-
-## 📥 Como baixar
-
-Você pode baixar o eBook em formato PDF diretamente [clicando aqui](#) *(adicione o link de download quando disponível)*.
-
----
-
-## 🚀 Bora codar!
-
-Prepare seu terminal, abra o VS Code, e que a Força esteja com seu código. 👨‍💻⚔️  
